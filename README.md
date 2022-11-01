@@ -21,7 +21,7 @@ Skills: Game Developer, Front-End Developer Website Designer,  <br>
    *Js
  ****
 ## *Contact:*   
-   LinkedIn: https://www.linkedin.com/in/sudeep-naik-9819b821a 
+   LinkedIn: https://www.linkedin.com/in/sudeep-naik-9819b821a <br>
    Mail: sudeep2002naik@gmail.com  
   
   
