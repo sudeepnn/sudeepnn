@@ -1,4 +1,4 @@
-Name:Sudeep N Naik
+Name:Sudeep N Naik <br>
 Location: Manglore, Karnataka, India
 Skills: Game Developer, Front-End Developer Website Designer, .
 Education:
