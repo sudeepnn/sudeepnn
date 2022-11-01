@@ -2,20 +2,18 @@
 Location: Manglore, Karnataka, India  <br>
 Skills: Game Developer, Front-End Developer Website Designer,  <br>
 *****
-## Education:  <br>
+## **Education:**  <br>
    <br>
    Student @Sahyadri College of Engineering and Management  <br>
    Bachelor's in Computer Science  <br>
    <br>  <br>
 ## **Fields_of_interests:**  <br>
-[
     <br>
     * Ethical Hacking and Cyber Security  <br>
     * Web Development  <br>
     * Android Developement  <br>
     * Web Designing  <br>
-      <br>
-  ] <br>
+      <br> <br>
 ## *Language:*  <br>
   [ <br>
     *C/C++  <br>
