@@ -1,33 +1,33 @@
-Name:Sudeep N Naik <br>
-Location: Manglore, Karnataka, India
-Skills: Game Developer, Front-End Developer Website Designer, .
-Education:
-  [
-   "Student @Sahyadri College of Engineering and Management"
-    "Bachelor's in Computer Science",
-  ]
-Fields_of_interests:
-  [
-    "Ethical Hacking and Cyber Security"
-    "Web Development",
-    "Android Developement",
-    "Web Designing"
-  ]
+#Name:Sudeep N Naik <br>
+Location: Manglore, Karnataka, India  <br>
+Skills: Game Developer, Front-End Developer Website Designer,  <br>
+##Education:  <br>
+  [  <br>
+   "Student @Sahyadri College of Engineering and Management"  <br>
+    "Bachelor's in Computer Science",  <br>
+  ]  <br>  <br>
+##Fields_of_interests:  <br>
+  [  <br>
+    "Ethical Hacking and Cyber Security"  <br>
+    "Web Development",  <br>
+    "Android Developement",  <br>
+    "Web Designing"  <br>
+  ]  <br>
+   <br>
+##Language:  <br>
+  [  <br>
+    "C/C++",  <br>
+    "Java",  <br>
+    "Python",  <br>
+    "HTML",  <br>
+    "CSS",  <br>
+    "Js"  <br>
+  ]  <br>  <br>
   
-Language:
-  [
-    "C/C++",
-    "Java",
-    "Python",
-    "HTML",
-    "CSS",
-    "Js"
-  ]
-  
-Contact: 
-  [
-    LinkedIn: https://www.linkedin.com/in/sudeep-naik-9819b821a, 
-    Mail: sudeep2002naik@gmail.com 
+##Contact:   <br>
+  [  <br>
+    LinkedIn: https://www.linkedin.com/in/sudeep-naik-9819b821a,   <br>
+    Mail: sudeep2002naik@gmail.com   <br>
 
-  ]
+  ]  <br>
   
