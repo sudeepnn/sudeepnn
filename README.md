@@ -8,27 +8,29 @@ Skills: Game Developer, Front-End Developer Website Designer,  <br>
    Bachelor's in Computer Science  <br>
    <br>  <br>
 ## **Fields_of_interests:**  <br>
+[
   <br>
     * Ethical Hacking and Cyber Security  <br>
     * Web Development  <br>
     * Android Developement  <br>
     * Web Designing  <br>
   <br>
-   <br>
+  ] <br>
 ## *Language:*  <br>
-   <br>
+  [ <br>
     *C/C++  <br>
     *Java  <br>
     *Python  <br>
     *HTML  <br>
     *CSS  <br>
     *Js  <br>
-   <br>  <br>
+   <br>
+   ]<br>
  
 ## *Contact:*   <br>
-   <br>
+  [ <br>
     LinkedIn: https://www.linkedin.com/in/sudeep-naik-9819b821a,   <br>
     Mail: sudeep2002naik@gmail.com   <br>
-
+]
    <br>
   
