@@ -9,12 +9,12 @@ Skills: Game Developer, Front-End Developer Website Designer,  <br>
    <br>  <br>
 ## **Fields_of_interests:**  <br>
 [
-  <br>
+    <br>
     * Ethical Hacking and Cyber Security  <br>
     * Web Development  <br>
     * Android Developement  <br>
     * Web Designing  <br>
-  <br>
+      <br>
   ] <br>
 ## *Language:*  <br>
   [ <br>
