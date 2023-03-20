@@ -1,6 +1,6 @@
 # **Name**:Sudeep N Naik <br>
 Location: Manglore, Karnataka, India  <br>
-Skills: Front-End Web Developer, Problem Solver  <br>
+Skills: Front-End Web Developer,Time management, Problem-solving,Team management,Communication  <br>
 *****
 ## **Education:**
    Student @Sahyadri College of Engineering and Management  <br>
