@@ -40,6 +40,20 @@
 <a href="https://twitter.com/sudeepnn16?t=4BqSa2RxFmPOpCTizwA8Hw&s=09" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/__sudeep__naik/?igshid=YmMyMTA2M2Y%3D" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 
+
+
+# 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=sudeepnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=sudeepnn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sudeepnn&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sudeepnn&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
   
